@@ -1,5 +1,7 @@
 # ECMAScript proposal: `{BigInt,Number}.fromString`
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 ## Status
 
 This proposal is at stage 1 of [the TC39 process](https://tc39.github.io/process-document/).
